@@ -1,0 +1,18 @@
+body {
+    background-image: url('img_8295.webp');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: Georgia, serif;
+}
+
+h1 {
+    color: blue;
+    text-align: left;
+    font-size: 18;
+}
+
+p {
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+}
